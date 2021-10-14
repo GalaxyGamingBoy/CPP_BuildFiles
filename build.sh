@@ -1,5 +1,5 @@
 clear
-g++ ./*.cpp -o out
+g++ ./*/*.cpp -o out
 echo ----- ----- -----
 echo   Build  Output
 echo ----- ----- -----
