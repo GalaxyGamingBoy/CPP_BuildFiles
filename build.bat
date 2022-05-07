@@ -5,3 +5,4 @@ echo ----- ----- -----
 echo   Build  Output
 echo ----- ----- -----
 .\out.exe
+rm .\out.exe
