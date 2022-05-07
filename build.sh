@@ -4,3 +4,4 @@ echo ----- ----- -----
 echo   Build  Output
 echo ----- ----- -----
 ./out
+rm ./out
